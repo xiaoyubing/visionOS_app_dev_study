@@ -20,3 +20,6 @@ visionOS应用开发学习。也许VisionOS就是未来！所以我想要抓到�
 ![visionOS](assets/img/download_visionOS.png "visionOS")
 
 ## 🎉恭喜您，此刻你的visionOS开发环境已经搭建完成！
+
+## 😄让我们一起一步一步学习visionOS的APP开发吧
+1、[创建您的第一个visionOS APP](Day1/README.md)
