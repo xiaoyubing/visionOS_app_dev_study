@@ -11,15 +11,12 @@ visionOS应用开发学习。也许VisionOS就是未来！所以我想要抓到�
 ![macOS Sonoma Developer Beta版本](assets/img/macOS_Sonoma_Developer_Beta.png "macOS Sonoma Developer Beta版本")
 
 3、从官网下载最新的Beta版本的[Xcode 15 beta 3](https://developer.apple.com/download/all/?q=Xcode),只需要选择对应的Xcode5即可。
-![macOS Sonoma Developer Beta版本](assets/img/download_Xcode15_Beta.png "macOS Sonoma Developer Beta版本")
+![macOS Sonoma Developer Beta版本](assets/img/download_Xcode15_Beta.png "择对应的Xcode5")
 
 4、下载下来的安装文件为：Xcode_15_beta_3.xip，选择打开将解压出来的Xcode-beta应用拖拽到应用程序中即可。
-![Xcode-beta](assets/img/Xcode-beta.png "Xcode-beta]")
+![Xcode-beta](assets/img/Xcode-beta.png "Xcode-beta")
 
 5、打开Xcode-beta如果没有自动提示下载安装visionOS模拟器，则在打开Xcode-beta应用后，进行visionOS模拟器的下载。
-![visionOS](assets/img/download_visionOS.png "visionOS]")
+![visionOS](assets/img/download_visionOS.png "visionOS")
 
 ## 🎉恭喜您，此刻你的visionOS开发环境已经搭建完成！
-
-### TODO 
-1、创建第一个visionOS app。
